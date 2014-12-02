@@ -1,7 +1,7 @@
 cs109-dl-videos
 ===============
 
-Shell script to scrape Harvard CS109 (Intro to Data Science) lecture videos
+Shell script to scrape Harvard CS109 (Intro to Data Science) lecture videos (both 2013 and 2014 videos!).
 
 Overview
 ---
